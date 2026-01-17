@@ -4,6 +4,29 @@ import { calcChapterCount } from '@/utils'
 // 中国考试
 const chinaExam: DictionaryResource[] = [
   {
+    id: 'english-guoqushi',
+    name: '英语过去式',
+    description: '英语过去式',
+    category: '中国考试',
+    tags: ['BOBY专属'],
+    url: '/dicts/English-guoqushi.json',
+    length: 72,
+    language: 'en',
+    languageCategory: 'en',
+  },
+  {
+    id: 'english-guofenci',
+    name: '英语过去分词',
+    description: '英语过去分词',
+    category: '中国考试',
+    tags: ['BOBY专属'],
+    url: '/dicts/English-guoqufenci.json',
+    length: 72,
+    language: 'en',
+    languageCategory: 'en',
+  },
+
+  {
     id: 'cet4',
     name: 'CET-4',
     description: '大学英语四级词库',
