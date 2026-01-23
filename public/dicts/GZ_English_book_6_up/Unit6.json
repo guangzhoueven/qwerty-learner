@@ -1,0 +1,13 @@
+[
+  { "name": "secret", "trans": ["n. 秘密"] },
+  { "name": "simple", "trans": ["adj. 简单的"] },
+  { "name": "least", "trans": ["adj. 最少（小）"] },
+  { "name": "at least", "trans": ["至少"] },
+  { "name": "*diet", "trans": ["n. 节食；限食"] },
+  { "name": "*keep a good diet", "trans": ["保持一个良好的饮食习惯"] },
+  { "name": "less", "trans": ["adj. 较少的"] },
+  { "name": "oily", "trans": ["adj. 多油的；油腻的"] },
+  { "name": "finally", "trans": ["adv. 最后地"] },
+  { "name": "smile", "trans": ["v. 微笑 n. 微笑；笑容"] },
+  { "name": "even", "trans": ["adv. 甚至"] }
+]

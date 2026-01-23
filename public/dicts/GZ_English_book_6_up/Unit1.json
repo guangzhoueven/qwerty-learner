@@ -1,0 +1,15 @@
+[
+  { "name": "country", "trans": ["n. 农村"] },
+  { "name": "field", "trans": ["n. 田"] },
+  { "name": "pick", "trans": ["v. 摘"] },
+  { "name": "grass", "trans": ["n. 草"] },
+  { "name": "cow", "trans": ["n. 奶牛；母牛"] },
+  { "name": "sheep", "trans": ["n. 绵羊（单复数一样）"] },
+  { "name": "other", "trans": ["adj. 其他的；别的"] },
+  { "name": "other", "trans": ["pron. 其他的（人或事）"] },
+  { "name": "few", "trans": ["adj. 极少；几乎没有"] },
+  { "name": "a few", "trans": ["几（个、条⋯⋯）"] },
+  { "name": "goat", "trans": ["n. 山羊"] },
+  { "name": "goose", "trans": ["n. 鹅（复数是 geese）"] },
+  { "name": "river", "trans": ["n. 河；江"] }
+]

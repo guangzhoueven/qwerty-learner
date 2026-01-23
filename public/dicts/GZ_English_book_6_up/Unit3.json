@@ -1,0 +1,13 @@
+[
+  { "name": "city", "trans": ["n. 城市"] },
+  { "name": "student", "trans": ["n. 学生"] },
+  { "name": "quiet", "trans": ["adj. 安静的"] },
+  { "name": "cheap", "trans": ["adj. 便宜的"] },
+  { "name": "modern", "trans": ["adj. 现代化的"] },
+  { "name": "noisy", "trans": ["adj. 嘈杂的"] },
+  { "name": "wide", "trans": ["adj. 宽阔的"] },
+  { "name": "crowded", "trans": ["adj. 拥挤的"] },
+  { "name": "comfortable", "trans": ["adj. 舒服的"] },
+  { "name": "heavy", "trans": ["adj. 拥挤的；大量的"] },
+  { "name": "slow", "trans": ["adj. 慢的；缓慢的"] }
+]
