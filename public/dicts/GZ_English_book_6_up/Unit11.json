@@ -7,9 +7,9 @@
   { "name": "jiaozi", "trans": ["n. 饺子"] },
   { "name": "moon", "trans": ["n. 月亮"] },
   { "name": "mooncake", "trans": ["n. 月饼"] },
-  { "name": "*dragon", "trans": ["n. 龙"] },
-  { "name": "*Dragon Boat Festival", "trans": ["端午节"] },
-  { "name": "*zongzi", "trans": ["n. 粽子"] },
+  { "name": "dragon", "trans": ["n. 龙"] },
+  { "name": "Dragon Boat Festival", "trans": ["端午节"] },
+  { "name": "zongzi", "trans": ["n. 粽子"] },
   { "name": "race", "trans": ["n. 比赛"] },
   { "name": "*Chongyang Festival", "trans": ["重阳节"] }
 ]
