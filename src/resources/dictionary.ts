@@ -10,7 +10,7 @@ const chinaExam: DictionaryResource[] = [
     category: '中国考试',
     tags: ['广州版六年级英语上册单词'],
     url: '/dicts/GZ_English_book_6_up/Unit1.json',
-    length: 13,
+    length: 12,
     language: 'en',
     languageCategory: 'en',
   },

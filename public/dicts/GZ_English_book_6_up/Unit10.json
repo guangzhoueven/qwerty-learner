@@ -5,5 +5,5 @@
   { "name": "far away", "trans": ["遥远"] },
   { "name": "office", "trans": ["n. 办公室"] },
   { "name": "store", "trans": ["n. 商店"] },
-  { "name": "*department store", "trans": ["百货公司"] }
+  { "name": "department store", "trans": ["百货公司"] }
 ]

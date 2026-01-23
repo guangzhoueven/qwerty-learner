@@ -1,5 +1,5 @@
 [
-  { "name": "*lunar", "trans": ["adj. 月亮的"] },
+  { "name": "lunar", "trans": ["adj. 月亮的"] },
   { "name": "celebrate", "trans": ["v. 庆祝"] },
   { "name": "remember", "trans": ["v. 记住"] },
   { "name": "ancient", "trans": ["adj. 古代的"] },
@@ -7,6 +7,6 @@
   { "name": "bean", "trans": ["n. 豆"] },
   { "name": "bamboo", "trans": ["n. 竹子"] },
   { "name": "cheer", "trans": ["v. 欢呼"] },
-  { "name": "*reunion", "trans": ["n. 重聚"] },
-  { "name": "*lantern", "trans": ["n. 灯笼"] }
+  { "name": "reunion", "trans": ["n. 重聚"] },
+  { "name": "lantern", "trans": ["n. 灯笼"] }
 ]
