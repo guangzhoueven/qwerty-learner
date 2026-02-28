@@ -136,8 +136,6 @@ const chinaExam: DictionaryResource[] = [
     languageCategory: 'en',
   },
 
-
-
   {
     id: 'english-guoqushi',
     name: '英语过去式',
