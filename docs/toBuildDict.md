@@ -65,7 +65,7 @@
 
 ### 1.3 词典的索引建立 🔍
 
-词典的索引建立是在 `/resources/dictionary.ts` 中完成的，你需要在该文件中添加一行代码，格式如下：
+词典的索引建立是在 `/src/resources/dictionary.ts` 中完成的，你需要在该文件中添加一行代码，格式如下：
 
 ```json
 {

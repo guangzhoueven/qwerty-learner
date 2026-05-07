@@ -1,0 +1,20 @@
+[
+  { "name": "ring", "trans": ["n. 环状物；圈形的东西"] },
+  { "name": "collection", "trans": ["n. （常指同类的）收集物"] },
+  { "name": "own", "trans": ["v. 拥有；有"] },
+  { "name": "valuable", "trans": ["adj. 贵重的"] },
+  { "name": "handle", "trans": ["v. （用手）触"] },
+  { "name": "glove", "trans": ["n. （分手指的）手套"] },
+  { "name": "add", "trans": ["v. 增加；添加"] },
+  { "name": "envelope", "trans": ["n. 信封"] },
+  { "name": "absolutely", "trans": ["adv. 极其"] },
+  { "name": "seem", "trans": ["v. 好像；似乎"] },
+  { "name": "impossible", "trans": ["adj. 不可能的"] },
+  { "name": "single", "trans": ["adj. 单个的"] },
+  { "name": "nail", "trans": ["n. 钉；钉子"] },
+  { "name": "explain", "trans": ["v. 解释；说明"] },
+  { "name": "bit", "trans": ["n. 一部分"] },
+  { "name": "similar", "trans": ["adj. 相像的；类似的"] },
+  { "name": "coin", "trans": ["n. （一枚）硬币"] },
+  { "name": "soft", "trans": ["adj. 软的"] }
+]
